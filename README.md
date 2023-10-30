@@ -1,2 +1,6 @@
 # MLP-GAN-discriminator-training
-Training a discriminator to categorize real vs generated data.
+Setting up an adversarial network consisting of MLP's.
+Training the discriminator to categorize real vs generated audio data.
+
+Usage:
+`python main.py "/path/to/dataset/"`
